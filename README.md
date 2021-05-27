@@ -1,3 +1,6 @@
+Build a react app and then check the src folder in the repo
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
